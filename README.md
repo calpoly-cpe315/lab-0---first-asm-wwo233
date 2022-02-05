@@ -2,7 +2,7 @@
 
 ## Things to include in your README
 
-* Xiangyi Li
+* Xiangyi (Shae) Li
 * Status: Complete
 * Compilation and execution instructions
   * `gcc -o eggnog eggnog.s`
